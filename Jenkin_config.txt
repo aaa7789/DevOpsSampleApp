@@ -1,5 +1,5 @@
  jenkin configuration file
 
-name=akhil
+name=bubby
 
 location=hyderabad
